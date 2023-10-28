@@ -1,0 +1,54 @@
+.12_6 { 
+	overflow:hidden;
+}.e12_6 { 
+	width:1920px;
+	height:1080px;
+	position:absolute;
+}.e12_5 { 
+	width:1920px;
+	height:1080px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.e12_2 { 
+	background-image:linear-gradient(0deg, rgba(48.2060182839632, 121.4791850745678, 144.61806625127792, 1) 0%,rgba(255, 255, 255, 0) 100%) ;
+	width:1920px;
+	height:1080px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.e12_3 { 
+	background-image:linear-gradient(0deg, rgba(227.37499594688416, 251.68502748012543, 255, 1) 0%,rgba(255, 255, 255, 0) 100%) ;
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	-moz-background-clip:text;
+	-moz-text-fill-color:transparent;
+	-ms-background-clip:text;
+	-ms-text-fill-color:transparent;
+	width:1229px;
+	height:158px;
+	position:absolute;
+	left:345px;
+	top:461px;
+	font-family:Prosto One;
+	text-align:left;
+	font-size:128px;
+	letter-spacing:0;
+}.e12_4 { 
+	background-image:linear-gradient(0deg, rgba(0, 0, 0, 1) 13.54166716337204%,rgba(0, 0, 0, 0) 100%) ;
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	-moz-background-clip:text;
+	-moz-text-fill-color:transparent;
+	-ms-background-clip:text;
+	-ms-text-fill-color:transparent;
+	width:272px;
+	height:40px;
+	position:absolute;
+	left:824px;
+	top:619px;
+	font-family:Prosto One;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
